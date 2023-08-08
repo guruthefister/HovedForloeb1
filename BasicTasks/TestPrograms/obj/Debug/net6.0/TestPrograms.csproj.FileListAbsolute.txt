@@ -1,0 +1,15 @@
+D:\Skole\HF1\Opgaver med Kaj\TestOpgaver\BasicTasks\TestPrograms\bin\Debug\net6.0\TestPrograms.exe
+D:\Skole\HF1\Opgaver med Kaj\TestOpgaver\BasicTasks\TestPrograms\bin\Debug\net6.0\TestPrograms.deps.json
+D:\Skole\HF1\Opgaver med Kaj\TestOpgaver\BasicTasks\TestPrograms\bin\Debug\net6.0\TestPrograms.runtimeconfig.json
+D:\Skole\HF1\Opgaver med Kaj\TestOpgaver\BasicTasks\TestPrograms\bin\Debug\net6.0\TestPrograms.dll
+D:\Skole\HF1\Opgaver med Kaj\TestOpgaver\BasicTasks\TestPrograms\bin\Debug\net6.0\TestPrograms.pdb
+D:\Skole\HF1\Opgaver med Kaj\TestOpgaver\BasicTasks\TestPrograms\obj\Debug\net6.0\TestPrograms.csproj.AssemblyReference.cache
+D:\Skole\HF1\Opgaver med Kaj\TestOpgaver\BasicTasks\TestPrograms\obj\Debug\net6.0\TestPrograms.GeneratedMSBuildEditorConfig.editorconfig
+D:\Skole\HF1\Opgaver med Kaj\TestOpgaver\BasicTasks\TestPrograms\obj\Debug\net6.0\TestPrograms.AssemblyInfoInputs.cache
+D:\Skole\HF1\Opgaver med Kaj\TestOpgaver\BasicTasks\TestPrograms\obj\Debug\net6.0\TestPrograms.AssemblyInfo.cs
+D:\Skole\HF1\Opgaver med Kaj\TestOpgaver\BasicTasks\TestPrograms\obj\Debug\net6.0\TestPrograms.csproj.CoreCompileInputs.cache
+D:\Skole\HF1\Opgaver med Kaj\TestOpgaver\BasicTasks\TestPrograms\obj\Debug\net6.0\TestPrograms.dll
+D:\Skole\HF1\Opgaver med Kaj\TestOpgaver\BasicTasks\TestPrograms\obj\Debug\net6.0\refint\TestPrograms.dll
+D:\Skole\HF1\Opgaver med Kaj\TestOpgaver\BasicTasks\TestPrograms\obj\Debug\net6.0\TestPrograms.pdb
+D:\Skole\HF1\Opgaver med Kaj\TestOpgaver\BasicTasks\TestPrograms\obj\Debug\net6.0\TestPrograms.genruntimeconfig.cache
+D:\Skole\HF1\Opgaver med Kaj\TestOpgaver\BasicTasks\TestPrograms\obj\Debug\net6.0\ref\TestPrograms.dll

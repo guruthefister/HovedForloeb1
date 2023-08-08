@@ -1,0 +1,15 @@
+D:\Skole\HF1\Opgaver med Kaj\TestOpgaver\BasicOpgaver\virk nu\obj\Debug\net6.0\virk nu.csproj.AssemblyReference.cache
+D:\Skole\HF1\Opgaver med Kaj\TestOpgaver\BasicOpgaver\virk nu\obj\Debug\net6.0\virk nu.GeneratedMSBuildEditorConfig.editorconfig
+D:\Skole\HF1\Opgaver med Kaj\TestOpgaver\BasicOpgaver\virk nu\obj\Debug\net6.0\virk nu.AssemblyInfoInputs.cache
+D:\Skole\HF1\Opgaver med Kaj\TestOpgaver\BasicOpgaver\virk nu\obj\Debug\net6.0\virk nu.AssemblyInfo.cs
+D:\Skole\HF1\Opgaver med Kaj\TestOpgaver\BasicOpgaver\virk nu\obj\Debug\net6.0\virk nu.csproj.CoreCompileInputs.cache
+D:\Skole\HF1\Opgaver med Kaj\TestOpgaver\BasicOpgaver\virk nu\bin\Debug\net6.0\virk nu.exe
+D:\Skole\HF1\Opgaver med Kaj\TestOpgaver\BasicOpgaver\virk nu\bin\Debug\net6.0\virk nu.deps.json
+D:\Skole\HF1\Opgaver med Kaj\TestOpgaver\BasicOpgaver\virk nu\bin\Debug\net6.0\virk nu.runtimeconfig.json
+D:\Skole\HF1\Opgaver med Kaj\TestOpgaver\BasicOpgaver\virk nu\bin\Debug\net6.0\virk nu.dll
+D:\Skole\HF1\Opgaver med Kaj\TestOpgaver\BasicOpgaver\virk nu\bin\Debug\net6.0\virk nu.pdb
+D:\Skole\HF1\Opgaver med Kaj\TestOpgaver\BasicOpgaver\virk nu\obj\Debug\net6.0\virk nu.dll
+D:\Skole\HF1\Opgaver med Kaj\TestOpgaver\BasicOpgaver\virk nu\obj\Debug\net6.0\refint\virk nu.dll
+D:\Skole\HF1\Opgaver med Kaj\TestOpgaver\BasicOpgaver\virk nu\obj\Debug\net6.0\virk nu.pdb
+D:\Skole\HF1\Opgaver med Kaj\TestOpgaver\BasicOpgaver\virk nu\obj\Debug\net6.0\virk nu.genruntimeconfig.cache
+D:\Skole\HF1\Opgaver med Kaj\TestOpgaver\BasicOpgaver\virk nu\obj\Debug\net6.0\ref\virk nu.dll
